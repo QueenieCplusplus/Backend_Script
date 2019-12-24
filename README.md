@@ -22,3 +22,5 @@ https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/query.js
 DB ops (insert)
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/insert_doc.js
 
+Upload
+https://github.com/QueenieCplusplus/Backend_Script/tree/master/-Nodejs/Upload-master
