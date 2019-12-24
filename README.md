@@ -6,3 +6,6 @@ plz see code.
 Crawler https://github.com/QueenieCplusplus/Backend_Script/blob/master/Crawler.md
 
 LDAP https://github.com/QueenieCplusplus/Backend_Script/blob/master/ldap/ldapSearch.js
+
+Secure
+https://github.com/QueenieCplusplus/Backend_Script/tree/master/Security
