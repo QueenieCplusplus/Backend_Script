@@ -15,6 +15,8 @@ plz see code.
 
    Pub/Sub, 訂閱/發布
 
+-----------------------------------------
+各種應用
 
 Crawler https://github.com/QueenieCplusplus/Backend_Script/blob/master/Crawler.md
 
@@ -28,15 +30,6 @@ https://github.com/QueenieCplusplus/Backend_Script/tree/master/Security
 Auth
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/Auth/AuthorizedUser.js
 
-DB connection
-https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/db.js
-
-DB query
-https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/query.js
-
-DB ops (insert)
-https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/insert_doc.js
-
 Upload
 https://github.com/QueenieCplusplus/Backend_Script/tree/master/-Nodejs/Upload-master
 
@@ -46,7 +39,17 @@ https://github.com/QueenieCplusplus/Backend_Script/tree/master/-Nodejs/PushNotif
 File Transfer
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/-Nodejs/FS_and_URL_NodeApp-master/index.js
 
+------------------------
+資料庫管理
 
+DB connection
+https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/db.js
+
+DB query
+https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/query.js
+
+DB ops (insert)
+https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/insert_doc.js
 
 
 
