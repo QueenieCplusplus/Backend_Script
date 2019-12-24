@@ -7,8 +7,8 @@
 
 3. Pub/Sub, 訂閱/發布
 
-4. Upload, 上傳
+4. Upload, 上傳 可使用 apollo 套件
 
-5. SendMail, 可使用 LDAP 套件
+5. SendMail, 收發信 可使用 LDAP 套件
 
 
