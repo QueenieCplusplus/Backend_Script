@@ -42,10 +42,10 @@ https://github.com/QueenieCplusplus/Backend_Script/blob/master/-Nodejs/FS_and_UR
 ------------------------
 資料庫管理
 
-DB connection
+DB connection (MongoDB)
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/db.js
 
-DB query
+DB query (find)
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/query.js
 
 DB ops (insert)
