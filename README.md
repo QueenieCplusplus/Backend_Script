@@ -7,6 +7,8 @@ Crawler https://github.com/QueenieCplusplus/Backend_Script/blob/master/Crawler.m
 
 LDAP https://github.com/QueenieCplusplus/Backend_Script/blob/master/ldap/ldapSearch.js
 
+AI https://github.com/QueenieCplusplus/Backend_Script/tree/master/-Nodejs/AI-master
+
 Secure
 https://github.com/QueenieCplusplus/Backend_Script/tree/master/Security
 
@@ -30,6 +32,8 @@ https://github.com/QueenieCplusplus/Backend_Script/tree/master/-Nodejs/PushNotif
 
 File Transfer
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/-Nodejs/FS_and_URL_NodeApp-master/index.js
+
+
 
 
 
