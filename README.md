@@ -21,27 +21,35 @@ plz see code.
 後端功能
 
 Auth
+
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/Auth/AuthorizedUser.js
    
-LDAP https://github.com/QueenieCplusplus/Backend_Script/blob/master/ldap/ldapSearch.js
+LDAP
+https://github.com/QueenieCplusplus/Backend_Script/blob/master/ldap/ldapSearch.js
 
 RemotePush (Notification)
+
 https://github.com/QueenieCplusplus/Backend_Script/tree/master/-Nodejs/PushNotification-master
 
 Upload
+
 https://github.com/QueenieCplusplus/Backend_Script/tree/master/-Nodejs/Upload-master
 
 -----------------------------------------
 各種應用
 
-Crawler https://github.com/QueenieCplusplus/Backend_Script/blob/master/Crawler.md
+Crawler 
+https://github.com/QueenieCplusplus/Backend_Script/blob/master/Crawler.md
 
-AI https://github.com/QueenieCplusplus/Backend_Script/tree/master/-Nodejs/AI-master
+AI 
+https://github.com/QueenieCplusplus/Backend_Script/tree/master/-Nodejs/AI-master
 
 Secure
+
 https://github.com/QueenieCplusplus/Backend_Script/tree/master/Security
 
 File Transfer
+
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/-Nodejs/FS_and_URL_NodeApp-master/index.js
 
 ------------------------
