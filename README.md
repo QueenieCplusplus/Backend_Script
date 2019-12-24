@@ -13,7 +13,7 @@ plz see code.
    
    Upload, 上傳 可使用 apollo 套件
 
-   Pub/Sub, 訂閱/發布
+   Pub/Sub, 訂閱/發布 (TBD)
    
 Auth
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/Auth/AuthorizedUser.js
