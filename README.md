@@ -1,7 +1,7 @@
 # Backend_Script
 後端腳本語言
 
-plz see code.
+
 
 套件使用
 
@@ -14,7 +14,12 @@ plz see code.
    Upload, 上傳 可使用 apollo 套件
 
    Pub/Sub, 訂閱/發布 (TBD)
-   
+ 
+plz see code. 
+
+------------------------
+後端功能
+
 Auth
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/Auth/AuthorizedUser.js
    
