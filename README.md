@@ -10,5 +10,8 @@ LDAP https://github.com/QueenieCplusplus/Backend_Script/blob/master/ldap/ldapSea
 Secure
 https://github.com/QueenieCplusplus/Backend_Script/tree/master/Security
 
-DB
+DB connection
+https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/db.js
+
+DB query
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/query.js
