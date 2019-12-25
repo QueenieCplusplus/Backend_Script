@@ -19,6 +19,9 @@ https://github.com/QueenieCplusplus/Backend_Script/tree/master/API
 
    Pub/Sub, 訂閱/發布 (TBD)
    
+   NodeRed 
+   
+   https://www.youtube.com/watch?v=h0WPJqd78Qg&feature=youtu.be&fbclid=IwAR0dl7S3X7_NX-C9Gro0YEEbsgHICtoifTaKjnVY5MdUx1q8sWB9AvPA3oo
  
 plz see code. 
 
