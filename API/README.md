@@ -23,7 +23,7 @@
  
      const settings = require('../configs.js');
      
- (5) 關於 API 的第一層封裝，請詳範例 ../service/QAPI.js
+ (5) 關於 API 的建置，請詳範例 ../service/QAPI.js
  
       (function() {
          const request = require('request-promise');
@@ -74,7 +74,7 @@
          module.exports = new QAPI();
      }());
 
-(6) 關於 API 的第二層封裝，請詳範例 ../controller/QController.js
+(6) 關於 API 的實際建置，請詳範例 ../controller/QController.js
 
         (function() {
             const request = require('request-promise');
