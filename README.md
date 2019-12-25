@@ -58,7 +58,11 @@ https://github.com/QueenieCplusplus/Backend_Script/blob/master/-Nodejs/FS_and_UR
 
 NodeRed
 
-   NodeRed    https://www.youtube.com/watch?v=h0WPJqd78Qg&feature=youtu.be&fbclid=IwAR0dl7S3X7_NX-C9Gro0YEEbsgHICtoifTaKjnVY5MdUx1q8sWB9AvPA3oo
+https://github.com/QueenieCplusplus/Backend_Script/tree/master/NodeRed
+
+NodeRed Tool
+
+https://www.youtube.com/watch?v=h0WPJqd78Qg&feature=youtu.be&fbclid=IwAR0dl7S3X7_NX-C9Gro0YEEbsgHICtoifTaKjnVY5MdUx1q8sWB9AvPA3oo
 
 ------------------------
 { 資料庫管理 }
