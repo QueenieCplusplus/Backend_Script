@@ -15,7 +15,8 @@
 
    Pub/Sub, 訂閱/發布 (TBD)
    
-   APIhttps://github.com/QueenieCplusplus/AI_API
+   API,    
+   https://github.com/QueenieCplusplus/AI_API
  
 plz see code. 
 
