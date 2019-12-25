@@ -2,6 +2,8 @@
 後端腳本語言
 
 
+# API
+
 
 套件使用
 
@@ -15,8 +17,6 @@
 
    Pub/Sub, 訂閱/發布 (TBD)
    
-   API,    
-   https://github.com/QueenieCplusplus/AI_API
  
 plz see code. 
 
