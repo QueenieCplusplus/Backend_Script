@@ -19,8 +19,6 @@ https://github.com/QueenieCplusplus/Backend_Script/tree/master/API
 
    Pub/Sub, 訂閱/發布 (TBD)
    
-   NodeRed 
-   
 plz see code. 
 
 ------------------------
@@ -57,6 +55,10 @@ https://github.com/QueenieCplusplus/Backend_Script/tree/master/Security
 File Transfer
 
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/-Nodejs/FS_and_URL_NodeApp-master/index.js
+
+NodeRed
+
+   NodeRed    https://www.youtube.com/watch?v=h0WPJqd78Qg&feature=youtu.be&fbclid=IwAR0dl7S3X7_NX-C9Gro0YEEbsgHICtoifTaKjnVY5MdUx1q8sWB9AvPA3oo
 
 ------------------------
 { 資料庫管理 }
