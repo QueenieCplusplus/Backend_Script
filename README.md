@@ -14,6 +14,8 @@
    Upload, 上傳 可使用 apollo 套件
 
    Pub/Sub, 訂閱/發布 (TBD)
+   
+   APIhttps://github.com/QueenieCplusplus/AI_API
  
 plz see code. 
 
