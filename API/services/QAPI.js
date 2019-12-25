@@ -19,7 +19,7 @@
 
             let environment = settings.environment;
             environment = environment == 'product' ? 'product' : 'develop';
-            baseUrl = settings.hoitalApi[environment];
+            baseUrl = settings.QApi[environment];
 
             let url = baseUrl + apiCode;
     
