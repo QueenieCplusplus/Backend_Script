@@ -83,7 +83,6 @@
                 constructor() {
                     this.QLogin = this.QLogin.bind(this);
                     this.QAPI = this.QAPI.bind(this);
-                    this.PKNoderedAPI = this.PKNoderedAPI.bind(this);
                     this.getQInstance = this.getQInstance.bind(this);
                 }
 
@@ -140,44 +139,6 @@
                                 status: 1,
                                 data: result,
                                 msg: 'success call q api'
-                            };
-                        }
-                        res.status(200).json(resJson);
-                    })
-                    .catch((error) => {
-                        let resJson = {
-                            status: 0,
-                            msg: error
-                        };
-                        res.status(500).json(resJson);
-                    });
-                }
-
-                /**
-                 * 呼叫api
-                 * @param {object} req http request
-                 * @param {object} res http response
-                 */
-                PKNoderedAPI(req, res) {
-                    let apiCode = req.body.apiCode;
-                    let params = req.body.params || {};
-                    let resJson = {};
-
-                    params.apikey = '     ';
-
-                    console.log(apiCode, params)
-
-                    return callPKAPI(apiCode, params).then(result => {
-                        if(!result) {
-                            resJson = {
-                                status: 0,
-                                msg: 'fail call pk nodered api'
-                            };
-                        }else{
-                            resJson = {
-                                status: 1,
-                                data: result,
-                                msg: 'success call pk nodered api'
                             };
                         }
                         res.status(200).json(resJson);
@@ -251,36 +212,10 @@
                 })
             }
 
-            /**
-             * 呼叫PKAPI
-             */
-            const callPKAPI = function(method, params) {
-                baseUrl = settings.api.PKApi;
-                let url = baseUrl + method;
-
-                let endPoint = {
-                    'url': url,
-                    'method': 'POST',
-                    'rejectUnauthorized': false, 
-                    'json': true,
-                    'body': params
-                };
-
-                return request.post(endPoint).then((body) => {
-                    if(body.success) {
-                        return body.data;
-                    } else {
-                        console.log('call pk api error :' + body.errorMsg);
-                        return null;
-                    }
-
-                }).catch((error) => {
-                    console.log('call pk error :' + error);
-                    return null;
-                })
-            }
+           
 
             module.exports = new QController();
+
 
         }());
 
