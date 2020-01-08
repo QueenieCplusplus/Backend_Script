@@ -1,6 +1,31 @@
 # Backend_Script
 後端腳本語言
 
+軟體開發設計流程
+其中 SA <-> SD <-> PG 完成 IPO，輸入 -> 流程 -> 輸出的目標。 
+SA 注重 IPO >>> SD 注重元件拼圖 >>> PG 注重功能性實作與單元測試 >>> QA 注重掃除 Bug >>> Deploy 注重 軟體能被安裝在所有實體機上。
+
+
+
+          Spec  
+              ｜＿
+
+                SA
+                  ｜＿
+
+                      SD
+                        ｜＿
+
+                           PG
+                             ｜＿
+
+                                TEST/QA
+                                       ｜＿
+
+                                        Deploy & Publish
+                                                     ｜＿
+
+                                                        Maintain
 
 # API
 
