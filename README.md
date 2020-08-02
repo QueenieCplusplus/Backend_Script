@@ -44,6 +44,8 @@ https://github.com/QueenieCplusplus/Backend_Script/tree/master/API
 
    Pub/Sub, 訂閱/發布 (TBD)
    
+   Node Red Flow, 程式碼的流程管理 https://github.com/QueenieCplusplus/NodeRed
+   
 plz see code. 
 
 ------------------------
