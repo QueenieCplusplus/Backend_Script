@@ -4,7 +4,7 @@ import {gql} from 'appollo-boost';
 import { userInfo } from 'os';
 
 import AuthorizedUser form ',/AuthorizedUser' 
-import Users form './Users'
+import Users from './Users'
 
 
 export const ROOT_QUERY = gqlˋ
