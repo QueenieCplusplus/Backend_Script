@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 
 export deafult class PostPhoto extends Component {
 
-    sate = {
+    state = {
         name: '',
         des: '',
         file: ''
