@@ -1,6 +1,8 @@
 # AI
 AI topics plz ref to here
 
+(below repo are all deprecated...)
+
 https://github.com/TurandotsAI?tab=repositories
 
 https://github.com/TurandotsAI/LineChatBot
