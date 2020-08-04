@@ -47,10 +47,6 @@ express.static
 
 scalar Uplod
 
-# Ref Doc
-
-https://github.com/nodejs2019/UploadFile_NodeApp (deprecated...)
-
 
 
 
