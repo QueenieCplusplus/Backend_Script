@@ -78,9 +78,11 @@ https://github.com/QueenieCplusplus/ChatRoom_Nodejs_App (chatroom)
 { 各種應用 }
 
 Crawler 
+
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/Crawler.md
 
 AI 
+
 https://github.com/QueenieCplusplus/Backend_Script/tree/master/-Nodejs/AI-master
 
 Secure
@@ -111,15 +113,19 @@ https://github.com/QueenieCplusplus/ChatRoom_Nodejs_App (SDP)
 { 資料庫管理 }
 
 DB connection (MongoDB)
+
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/db.js
 
 DB query (find)
+
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/query.js
 
 DB ops (insert)
+
 https://github.com/QueenieCplusplus/Backend_Script/blob/master/MongoDB/insert_doc.js
 
 FirebaseStore 
+
 https://github.com/QueenieCplusplus/ChatRoom_Nodejs_App
 
 
