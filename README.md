@@ -105,7 +105,7 @@ https://github.com/QueenieCplusplus/Simple_Nodejs_App
 
 Chat Room
 
-https://github.com/QueenieCplusplus/ChatRoom_Nodejs_App
+https://github.com/QueenieCplusplus/ChatRoom_Nodejs_App (SDP)
 
 ------------------------
 { 資料庫管理 }
